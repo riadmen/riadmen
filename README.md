@@ -78,8 +78,8 @@ You can find and get touch with me on these accounts!
 <br><br>
 ## Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
   
-<img src="https://github-readme-stats.vercel.app/api?username=riadmennour&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riadmennour&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadmennour&count_private=true&theme=radical" alt="Jas-Script" />
+<img src="https://github-readme-stats.vercel.app/api?username=riadmen&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riadmen&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadmen&count_private=true&theme=radical" alt="Jas-Script" />
   
 <hr>
