@@ -15,7 +15,7 @@
 </p>
 <hr>
 
-<h3 align="center">Computer Science Engineer | Maintenance Manager</h3>
+<h3 align="center">Computer Science Engineer</h3>
 <br>
 </p>
 
